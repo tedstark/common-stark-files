@@ -1,8 +1,5 @@
-body {
-  background-color: lightseagreen;
-}
-
 h1 {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  color: black;
+  color: white;
+  background-color: blue
 }
